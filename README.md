@@ -1,0 +1,2 @@
+# AMP-demo-trading
+Automatisation 
